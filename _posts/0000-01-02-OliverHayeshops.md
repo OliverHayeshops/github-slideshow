@@ -2,8 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+***Replaced text!***
+HPA
 ---
 1
 2
